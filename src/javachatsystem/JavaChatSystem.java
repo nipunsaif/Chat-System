@@ -7,8 +7,7 @@ class Chat {
     Scanner sc2= new Scanner(System.in);
     Scanner sc3= new Scanner(System.in);
     String string1, string2, string3;
-
-
+    
     int flag=0;
 
     public synchronized void talk1() throws InterruptedException {
